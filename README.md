@@ -1,5 +1,7 @@
 # SciPro BD Dashboard
 
+Repo: https://github.com/sofialopresti/scipro-bd-dashboard · Report: `report.html` · Slides: `slides.html`
+
 An AI agent app for life-sciences recruiters. Every day it finds 5 US biotech / AI drug discovery
 companies that are likely to hire, explains why now, drafts outreach emails in a chat,
 builds tailored pitch decks, and turns job intake notes into a search plan.
