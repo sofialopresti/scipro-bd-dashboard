@@ -1,0 +1,523 @@
+{
+  "run_id": "20261023-100700",
+  "date": "2026-10-23",
+  "picks": [
+    {
+      "company": "Pathos",
+      "source_ids": [
+        "N3"
+      ],
+      "company_type": "AI drug discovery biotech",
+      "hiring_score": 9,
+      "why_now": "Pathos just raised $237 million in a Series E at a $3 billion valuation and announced a neuroscience partnership with Bristol Myers Squibb. That combination of new capital and a major partnership could drive expansion across discovery and development.",
+      "likely_roles": [
+        "Principal Scientist, Drug Discovery",
+        "Clinical Operations Director",
+        "Regulatory Affairs Lead",
+        "Alliance Management Director"
+      ],
+      "outreach_angle": "Position SciPro as a partner able to scale scientific and clinical teams quickly as Pathos advances its pipeline and partnership.",
+      "evidence": [
+        {
+          "title": "STAT+: AI drug firm Pathos raises $237 million, pushing valuation to $3 billion",
+          "link": "https://www.statnews.com/2026/10/23/pathos-ai-bristol-myers-squibb-tempus-deal/?utm_campaign=rss",
+          "source": "STAT News (Biotech)",
+          "published": "2026-10-23"
+        },
+        {
+          "title": "Pathos raises $237M at $3B valuation, signs Bristol Myers neuro partnership",
+          "link": "https://endpoints.news/pathos-raises-237m-at-3b-valuation-signs-bristol-myers-neuro-partnership/",
+          "source": "Endpoints News",
+          "published": "2026-10-23"
+        }
+      ],
+      "trials": [],
+      "website": "https://pathos.com",
+      "picked_on": "2026-10-23",
+      "hiring": {
+        "status": "job_board",
+        "open_roles": null,
+        "matching_roles": null,
+        "ats": "Rippling",
+        "found_via": "website",
+        "titles": [],
+        "matching_titles": [],
+        "board_url": "https://ats.rippling.com/embed/pathos/jobs?s=https%3A%2F%2Fpathos.com%2Fcareers%2F",
+        "checked": "2026-10-23T10:11:21"
+      }
+    },
+    {
+      "company": "Lycia",
+      "source_ids": [
+        "N5"
+      ],
+      "company_type": "Clinical-stage biotech",
+      "hiring_score": 9,
+      "why_now": "Lycia priced a $318 million IPO to support development of three protein-degrading medicines for allergic conditions and Graves\u2019 disease. New public-market funding can create immediate needs across clinical development and regulatory execution.",
+      "likely_roles": [
+        "Clinical Trial Manager",
+        "Clinical Research Associate",
+        "Regulatory Affairs Director",
+        "Translational Scientist"
+      ],
+      "outreach_angle": "Offer SciPro\u2019s support in building the clinical and regulatory teams needed to advance multiple programs with newly raised capital.",
+      "evidence": [
+        {
+          "title": "Protein degrader specialist Lycia prices $318M IPO",
+          "link": "https://www.biopharmadive.com/news/lycia-therapeutics-targeted-protein-degraders-ipo-pricing/833624/",
+          "source": "BioPharma Dive",
+          "published": "2026-10-23"
+        }
+      ],
+      "trials": [],
+      "website": "https://lyciatx.com",
+      "picked_on": "2026-10-23",
+      "hiring": {
+        "status": "unknown",
+        "open_roles": null,
+        "matching_roles": null,
+        "ats": null,
+        "found_via": null,
+        "titles": [],
+        "matching_titles": [],
+        "board_url": "https://lyciatx.com/careers/",
+        "checked": "2026-10-23T10:11:21"
+      }
+    },
+    {
+      "company": "Star Therapeutics",
+      "source_ids": [
+        "N7"
+      ],
+      "company_type": "Biotech",
+      "hiring_score": 8,
+      "why_now": "Star Therapeutics raised $200 million to develop a new pipeline of medicines. That substantial financing gives the company room to expand its discovery and development capabilities.",
+      "likely_roles": [
+        "Research Scientist",
+        "Clinical Development Director",
+        "CMC Director",
+        "Regulatory Affairs Manager"
+      ],
+      "outreach_angle": "Position SciPro to help Star build the scientific and development teams required to turn its new funding into pipeline progress.",
+      "evidence": [
+        {
+          "title": "Star Therapeutics gets $200M to try repeating its Vega, Electra successes",
+          "link": "https://endpoints.news/star-therapeutics-gets-200m-to-try-repeating-its-vega-electra-successes/",
+          "source": "Endpoints News",
+          "published": "2026-10-23"
+        }
+      ],
+      "trials": [],
+      "website": "https://www.star-therapeutics.com",
+      "picked_on": "2026-10-23",
+      "hiring": {
+        "status": "unknown",
+        "open_roles": null,
+        "matching_roles": null,
+        "ats": null,
+        "found_via": null,
+        "titles": [],
+        "matching_titles": [],
+        "board_url": "https://www.star-therapeutics.com/our-careers/",
+        "checked": "2026-10-23T10:11:21"
+      }
+    },
+    {
+      "company": "Tango Therapeutics",
+      "source_ids": [
+        "N4"
+      ],
+      "company_type": "Clinical-stage biotech",
+      "hiring_score": 8,
+      "why_now": "Tango reported tumor responses in 82% of patients with a type of advanced pancreatic cancer receiving an experimental drug combination. The encouraging clinical signal could increase demand for oncology clinical-development and medical-affairs talent.",
+      "likely_roles": [
+        "Clinical Operations Lead",
+        "Clinical Research Associate",
+        "Medical Director, Oncology",
+        "Biostatistician"
+      ],
+      "outreach_angle": "Lead with SciPro\u2019s ability to source oncology clinical talent as Tango evaluates next steps for this promising combination.",
+      "evidence": [
+        {
+          "title": "STAT+: Tango reports 82% tumor response rate in trial of combo therapy for advanced pancreatic cancer",
+          "link": "https://www.statnews.com/2026/10/23/esmo-2026-trial-results-tango-therapeutics-vopimetostat-revolution-medicines-rasonque/?utm_campaign=rss",
+          "source": "STAT News (Biotech)",
+          "published": "2026-10-23"
+        }
+      ],
+      "trials": [],
+      "website": "https://www.tangotx.com",
+      "picked_on": "2026-10-23",
+      "hiring": {
+        "status": "hiring",
+        "open_roles": 18,
+        "matching_roles": 6,
+        "ats": "Greenhouse",
+        "found_via": "website",
+        "titles": [
+          "Associate Director, Operational Excellence",
+          "Associate Director, Statistical Programming ",
+          "Associate Medical Director, Pharmacovigilance",
+          "Director, Biostatistics ",
+          "Director, Intellectual Property",
+          "Director/Senior Director, GCP Quality Assurance",
+          "Executive Director, Clinical Development",
+          "Executive Director, Commercial Law/Commercial Contracts",
+          "Executive Director, Commercial Strategy & Execution",
+          "Head of Insights & Analytics"
+        ],
+        "matching_titles": [
+          "Associate Medical Director, Pharmacovigilance",
+          "Executive Director, Clinical Development",
+          "Senior Clinical Data Manager",
+          "Senior Director, Clinical Development",
+          "Senior Vice President, Medical Affairs",
+          "Vice President, Clinical Development"
+        ],
+        "board_url": "https://job-boards.greenhouse.io/tangotherapeutics/jobs/8031566003",
+        "checked": "2026-10-23T10:11:21"
+      }
+    },
+    {
+      "company": "Marengo",
+      "source_ids": [
+        "N0"
+      ],
+      "company_type": "Clinical-stage biotech",
+      "hiring_score": 7,
+      "why_now": "Marengo reported objective responses across several cancer types in a Phase 2 study of its bispecific antibody invikafusp alfa, particularly among patients who had not responded to prior checkpoint inhibitor therapy. The data may create a need to strengthen oncology development and medical teams.",
+      "likely_roles": [
+        "Clinical Trial Manager",
+        "Clinical Research Associate",
+        "Medical Science Liaison",
+        "Oncology Clinical Scientist"
+      ],
+      "outreach_angle": "Offer SciPro\u2019s oncology recruiting expertise to help Marengo advance the program and communicate its clinical findings.",
+      "evidence": [
+        {
+          "title": "ESMO 2026: Marengo's bispecific antibody shrinks 8 tumor types in Phase 2",
+          "link": "https://www.biospace.com/drug-development/esmo-2026-marengos-bispecific-antibody-shrinks-8-tumor-types-in-phase-2",
+          "source": "BioSpace",
+          "published": "2026-10-23"
+        }
+      ],
+      "trials": [],
+      "website": "https://www.marengotx.com",
+      "picked_on": "2026-10-23",
+      "hiring": {
+        "status": "unknown",
+        "open_roles": null,
+        "matching_roles": null,
+        "ats": null,
+        "found_via": null,
+        "titles": [],
+        "matching_titles": [],
+        "board_url": "https://marengotx.com/join-us/",
+        "checked": "2026-10-23T10:11:21"
+      }
+    }
+  ],
+  "rejected": [],
+  "news_signals": [
+    {
+      "company": "Marengo",
+      "article_ids": [
+        0
+      ],
+      "signal_type": "clinical_data",
+      "summary": "Marengo reported that its bispecific antibody invikafusp alfa showed objective responses across several cancer types in a Phase 2 study, particularly in patients who had not responded to prior checkpoint inhibitor therapy.",
+      "company_type": "clinical-stage biotech",
+      "us_presence": true,
+      "big_pharma": false,
+      "evidence": [
+        {
+          "title": "ESMO 2026: Marengo's bispecific antibody shrinks 8 tumor types in Phase 2",
+          "link": "https://www.biospace.com/drug-development/esmo-2026-marengos-bispecific-antibody-shrinks-8-tumor-types-in-phase-2",
+          "source": "BioSpace",
+          "published": "2026-10-23"
+        }
+      ]
+    },
+    {
+      "company": "Aardvark Therapeutics",
+      "article_ids": [
+        2
+      ],
+      "signal_type": "regulatory",
+      "summary": "After an additional safety study detected no cardiac events, the FDA cleared Aardvark\u2019s ARD-101 study to resume, and the company plans to restart testing next year.",
+      "company_type": "clinical-stage biotech",
+      "us_presence": true,
+      "big_pharma": false,
+      "evidence": [
+        {
+          "title": "FDA uncages Aardvark\u2019s Prader-Willi study after new study cleared safety concerns",
+          "link": "https://www.biospace.com/fda/fda-uncages-aardvarks-prader-willi-study-after-new-study-cleared-safety-concerns",
+          "source": "BioSpace",
+          "published": "2026-10-23"
+        }
+      ]
+    },
+    {
+      "company": "Zymeworks",
+      "article_ids": [
+        3
+      ],
+      "signal_type": "deal",
+      "summary": "Roche agreed to pay Zymeworks $55 million upfront, another $40 million when the partnered asset enters Phase 1b, and up to $718 million in additional milestones for a lung cancer trispecific T cell engager.",
+      "company_type": "clinical-stage biotech",
+      "us_presence": true,
+      "big_pharma": false,
+      "evidence": [
+        {
+          "title": "Roche bets up to $813M on Zymeworks\u2019 lung cancer trispecific T cell engager",
+          "link": "https://www.biospace.com/deals/roche-bets-up-to-813m-on-zymeworks-lung-cancer-trispecific-t-cell-engager",
+          "source": "BioSpace",
+          "published": "2026-10-23"
+        }
+      ]
+    },
+    {
+      "company": "Pathos",
+      "article_ids": [
+        5,
+        9
+      ],
+      "signal_type": "funding",
+      "summary": "Pathos raised $237 million in a Series E at a $3 billion valuation and announced a neuro partnership with Bristol Myers Squibb.",
+      "company_type": "AI drug discovery",
+      "us_presence": true,
+      "big_pharma": false,
+      "evidence": [
+        {
+          "title": "STAT+: AI drug firm Pathos raises $237 million, pushing valuation to $3 billion",
+          "link": "https://www.statnews.com/2026/10/23/pathos-ai-bristol-myers-squibb-tempus-deal/?utm_campaign=rss",
+          "source": "STAT News (Biotech)",
+          "published": "2026-10-23"
+        },
+        {
+          "title": "Pathos raises $237M at $3B valuation, signs Bristol Myers neuro partnership",
+          "link": "https://endpoints.news/pathos-raises-237m-at-3b-valuation-signs-bristol-myers-neuro-partnership/",
+          "source": "Endpoints News",
+          "published": "2026-10-23"
+        }
+      ]
+    },
+    {
+      "company": "Tango Therapeutics",
+      "article_ids": [
+        6
+      ],
+      "signal_type": "clinical_data",
+      "summary": "Tango reported that an experimental drug combination produced tumor responses in 82% of patients with a type of advanced pancreatic cancer.",
+      "company_type": "clinical-stage biotech",
+      "us_presence": true,
+      "big_pharma": false,
+      "evidence": [
+        {
+          "title": "STAT+: Tango reports 82% tumor response rate in trial of combo therapy for advanced pancreatic cancer",
+          "link": "https://www.statnews.com/2026/10/23/esmo-2026-trial-results-tango-therapeutics-vopimetostat-revolution-medicines-rasonque/?utm_campaign=rss",
+          "source": "STAT News (Biotech)",
+          "published": "2026-10-23"
+        }
+      ]
+    },
+    {
+      "company": "Lycia",
+      "article_ids": [
+        8
+      ],
+      "signal_type": "funding",
+      "summary": "Lycia priced a $318 million IPO to support development of three protein-degrading medicines for allergic conditions and Graves\u2019 disease.",
+      "company_type": "clinical-stage biotech",
+      "us_presence": true,
+      "big_pharma": false,
+      "evidence": [
+        {
+          "title": "Protein degrader specialist Lycia prices $318M IPO",
+          "link": "https://www.biopharmadive.com/news/lycia-therapeutics-targeted-protein-degraders-ipo-pricing/833624/",
+          "source": "BioPharma Dive",
+          "published": "2026-10-23"
+        }
+      ]
+    },
+    {
+      "company": "Voyager Therapeutics",
+      "article_ids": [
+        14
+      ],
+      "signal_type": "leadership",
+      "summary": "CEO Al Sandrock plans to step down in the first quarter of next year and remain on the board, while chief business and operating officer Robin Swartz is identified as his successor.",
+      "company_type": "clinical-stage biotech",
+      "us_presence": true,
+      "big_pharma": false,
+      "evidence": [
+        {
+          "title": "Al Sandrock to step down as Voyager CEO; Insmed adds Paul Hudson to board",
+          "link": "https://endpoints.news/al-sandrock-to-step-down-as-voyager-ceo-insmed-adds-paul-hudson-to-board/",
+          "source": "Endpoints News",
+          "published": "2026-10-23"
+        }
+      ]
+    },
+    {
+      "company": "Star Therapeutics",
+      "article_ids": [
+        15
+      ],
+      "signal_type": "funding",
+      "summary": "Star Therapeutics raised $200 million to develop a new pipeline of medicines based on its research.",
+      "company_type": "clinical-stage biotech",
+      "us_presence": true,
+      "big_pharma": false,
+      "evidence": [
+        {
+          "title": "Star Therapeutics gets $200M to try repeating its Vega, Electra successes",
+          "link": "https://endpoints.news/star-therapeutics-gets-200m-to-try-repeating-its-vega-electra-successes/",
+          "source": "Endpoints News",
+          "published": "2026-10-23"
+        }
+      ]
+    },
+    {
+      "company": "Biohaven",
+      "article_ids": [
+        20,
+        36
+      ],
+      "signal_type": "regulatory",
+      "summary": "The FDA accepted a new submission for Biohaven\u2019s spinocerebellar ataxia drug, with a decision expected in the first quarter of 2027.",
+      "company_type": "clinical-stage biotech",
+      "us_presence": true,
+      "big_pharma": false,
+      "evidence": [
+        {
+          "title": "Biohaven shares pop as FDA accepts resubmission for ataxia drug with adcomm expected",
+          "link": "https://www.biospace.com/drug-development/biohaven-shares-pop-as-fda-accepts-resubmission-for-ataxia-drug-with-adcomm-expected",
+          "source": "BioSpace",
+          "published": "2026-10-22"
+        },
+        {
+          "title": "Biohaven\u2019s previously rejected rare disease drug to get fresh FDA review",
+          "link": "https://www.biopharmadive.com/news/biohaven-troriluzole-vyglxia-sca-fda-accept-application/833703/",
+          "source": "BioPharma Dive",
+          "published": "2026-10-22"
+        }
+      ]
+    },
+    {
+      "company": "Roivant Sciences",
+      "article_ids": [
+        26,
+        58
+      ],
+      "signal_type": "clinical_data",
+      "summary": "Roivant reported that its drug brepocitinib met all primary and secondary endpoints in two Phase 3 trials for non-infectious uveitis.",
+      "company_type": "biopharma",
+      "us_presence": true,
+      "big_pharma": false,
+      "evidence": [
+        {
+          "title": "Roivant's TYK2/JAK inhibitor reduces need for steroids in inflammatory eye disease",
+          "link": "https://www.biospace.com/drug-development/roivants-tyk2-jak-inhibitor-reduces-need-for-steroids-in-inflammatory-eye-disease",
+          "source": "BioSpace",
+          "published": "2026-10-22"
+        },
+        {
+          "title": "STAT+: Roivant says closely watched immune drug succeeded in new eye disease",
+          "link": "https://www.statnews.com/2026/10/21/roivant-immune-drug-lisraya-noninfectious-uveitis-trial-results/?utm_campaign=rss",
+          "source": "STAT News (Biotech)",
+          "published": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "company": "Georgiamune",
+      "article_ids": [
+        50
+      ],
+      "signal_type": "deal",
+      "summary": "Georgiamune sold a preclinical solid tumor drug to Italy\u2019s Menarini in a deal worth up to $1.1 billion.",
+      "company_type": "biotech",
+      "us_presence": true,
+      "big_pharma": false,
+      "evidence": [
+        {
+          "title": "Georgiamune sells solid tumor drug to Italy's Menarini for up to $1.1B",
+          "link": "https://endpoints.news/georgiamune-sells-solid-tumor-drug-to-italys-menarini-for-up-to-1-1b/",
+          "source": "Endpoints News",
+          "published": "2026-10-22"
+        }
+      ]
+    },
+    {
+      "company": "Disc Medicine",
+      "article_ids": [
+        55
+      ],
+      "signal_type": "clinical_data",
+      "summary": "Disc Medicine\u2019s Phase 3 data supported another FDA submission for its previously rejected rare disease therapy.",
+      "company_type": "clinical-stage biotech",
+      "us_presence": true,
+      "big_pharma": false,
+      "evidence": [
+        {
+          "title": "Disc\u2019s redemption, China\u2019s rise, Veradermics\u2019 validation, ESMO\u2019s headliners",
+          "link": "https://www.biospace.com/business/discs-redemption-chinas-rise-veradermics-validation-esmos-headliners",
+          "source": "BioSpace",
+          "published": "2026-10-21"
+        }
+      ]
+    }
+  ],
+  "quarantined": [],
+  "ranked": [
+    {
+      "company": "Pathos",
+      "hiring_score": 9,
+      "source_ids": [
+        "N3"
+      ]
+    },
+    {
+      "company": "Lycia",
+      "hiring_score": 9,
+      "source_ids": [
+        "N5"
+      ]
+    },
+    {
+      "company": "Star Therapeutics",
+      "hiring_score": 8,
+      "source_ids": [
+        "N7"
+      ]
+    },
+    {
+      "company": "Tango Therapeutics",
+      "hiring_score": 8,
+      "source_ids": [
+        "N4"
+      ]
+    },
+    {
+      "company": "Marengo",
+      "hiring_score": 7,
+      "source_ids": [
+        "N0"
+      ]
+    }
+  ],
+  "sources_used": {
+    "feeds": [
+      "BioSpace",
+      "STAT News (Biotech)",
+      "BioPharma Dive",
+      "Endpoints News"
+    ],
+    "trials": "ClinicalTrials.gov (new industry Phase 2/3 drug trials, US sites)"
+  },
+  "counts": {
+    "articles": 60,
+    "trial_sponsors": 14
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "ran_at": "2026-10-22T18:50:55",
+  "sample_articles": 56,
+  "rows": [
+    {
+      "variant": "baseline",
+      "repeat": 1,
+      "seconds": 30.0,
+      "input_tokens": 6333,
+      "output_tokens": 4146,
+      "picks": [
+        "Verastem Oncology",
+        "Souffl\u00e9 Therapeutics",
+        "Vir Biotechnology",
+        "Generate Biomedicines",
+        "Trevi Therapeutics"
+      ],
+      "rejected": 0,
+      "hiring": 3,
+      "checkable": 3,
+      "matching_roles": 3
+    },
+    {
+      "variant": "half_articles",
+      "repeat": 1,
+      "seconds": 34.6,
+      "input_tokens": 4233,
+      "output_tokens": 2943,
+      "picks": [
+        "Verastem Oncology",
+        "Vir Biotechnology",
+        "SystImmune Inc.",
+        "Trevi Therapeutics",
+        "Sagimet Biosciences Inc."
+      ],
+      "rejected": 0,
+      "hiring": 2,
+      "checkable": 2,
+      "matching_roles": 2
+    },
+    {
+      "variant": "ranker_low",
+      "repeat": 1,
+      "seconds": 14.6,
+      "input_tokens": 6333,
+      "output_tokens": 2797,
+      "picks": [
+        "Souffl\u00e9 Therapeutics",
+        "Verastem Oncology",
+        "Generate Biomedicines",
+        "Vir Biotechnology",
+        "Trevi Therapeutics"
+      ],
+      "rejected": 0,
+      "hiring": 3,
+      "checkable": 3,
+      "matching_roles": 3
+    },
+    {
+      "variant": "both_cuts",
+      "repeat": 1,
+      "seconds": 15.4,
+      "input_tokens": 4234,
+      "output_tokens": 2121,
+      "picks": [
+        "Verastem Oncology",
+        "Vir Biotechnology",
+        "Generate:Biomedicines",
+        "Trevi Therapeutics",
+        "Sagimet Biosciences Inc."
+      ],
+      "rejected": 0,
+      "hiring": 3,
+      "checkable": 3,
+      "matching_roles": 3
+    },
+    {
+      "variant": "baseline",
+      "repeat": 2,
+      "seconds": 4.1,
+      "input_tokens": 6333,
+      "output_tokens": 4146,
+      "picks": [
+        "Verastem Oncology",
+        "Souffl\u00e9 Therapeutics",
+        "Vir Biotechnology",
+        "Generate Biomedicines",
+        "Trevi Therapeutics"
+      ],
+      "rejected": 0,
+      "hiring": 3,
+      "checkable": 3,
+      "matching_roles": 3
+    },
+    {
+      "variant": "half_articles",
+      "repeat": 2,
+      "seconds": 6.8,
+      "input_tokens": 4233,
+      "output_tokens": 2943,
+      "picks": [
+        "Verastem Oncology",
+        "Vir Biotechnology",
+        "SystImmune Inc.",
+        "Trevi Therapeutics",
+        "Sagimet Biosciences Inc."
+      ],
+      "rejected": 0,
+      "hiring": 2,
+      "checkable": 2,
+      "matching_roles": 2
+    },
+    {
+      "variant": "ranker_low",
+      "repeat": 2,
+      "seconds": 3.9,
+      "input_tokens": 6333,
+      "output_tokens": 2797,
+      "picks": [
+        "Souffl\u00e9 Therapeutics",
+        "Verastem Oncology",
+        "Generate Biomedicines",
+        "Vir Biotechnology",
+        "Trevi Therapeutics"
+      ],
+      "rejected": 0,
+      "hiring": 3,
+      "checkable": 3,
+      "matching_roles": 3
+    },
+    {
+      "variant": "both_cuts",
+      "repeat": 2,
+      "seconds": 6.3,
+      "input_tokens": 4234,
+      "output_tokens": 2121,
+      "picks": [
+        "Verastem Oncology",
+        "Vir Biotechnology",
+        "Generate:Biomedicines",
+        "Trevi Therapeutics",
+        "Sagimet Biosciences Inc."
+      ],
+      "rejected": 0,
+      "hiring": 3,
+      "checkable": 3,
+      "matching_roles": 3
+    }
+  ],
+  "summary": [
+    {
+      "variant": "baseline",
+      "runs": 2,
+      "tokens": 10479,
+      "input": 6333,
+      "output": 4146,
+      "seconds": 17.1,
+      "hiring_rate": "6/6",
+      "role_match": "6/6",
+      "avg_rejected": 0.0,
+      "overlap_with_baseline": 5.0
+    },
+    {
+      "variant": "half_articles",
+      "runs": 2,
+      "tokens": 7176,
+      "input": 4233,
+      "output": 2943,
+      "seconds": 20.7,
+      "hiring_rate": "4/4",
+      "role_match": "4/4",
+      "avg_rejected": 0.0,
+      "overlap_with_baseline": 3.0
+    },
+    {
+      "variant": "ranker_low",
+      "runs": 2,
+      "tokens": 9130,
+      "input": 6333,
+      "output": 2797,
+      "seconds": 9.2,
+      "hiring_rate": "6/6",
+      "role_match": "6/6",
+      "avg_rejected": 0.0,
+      "overlap_with_baseline": 5.0
+    },
+    {
+      "variant": "both_cuts",
+      "runs": 2,
+      "tokens": 6355,
+      "input": 4234,
+      "output": 2121,
+      "seconds": 10.8,
+      "hiring_rate": "6/6",
+      "role_match": "6/6",
+      "avg_rejected": 0.0,
+      "overlap_with_baseline": 4.0
+    }
+  ]
+}

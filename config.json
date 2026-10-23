@@ -1,0 +1,91 @@
+{
+  "model": "gpt-6-luna",
+  "agents": {
+    "_why": "Same model for every agent (the course key allows gpt-6-luna only); reasoning effort is set per agent by how hard its job is. Ranker moved from medium to low on 2026-10-22 after experiment_cost_quality.py showed identical picks with 33% fewer output tokens. max_output caps runaway responses.",
+    "analyst": {
+      "reasoning_effort": "low",
+      "max_output": 8000
+    },
+    "ranker": {
+      "reasoning_effort": "low",
+      "max_output": 6000
+    },
+    "linker": {
+      "reasoning_effort": "low",
+      "max_output": 1500
+    },
+    "writer": {
+      "reasoning_effort": "low",
+      "max_output": 3000
+    },
+    "researcher": {
+      "reasoning_effort": "low",
+      "max_output": 3000
+    },
+    "pitch_writer": {
+      "reasoning_effort": "medium",
+      "max_output": 5000
+    },
+    "intake_analyst": {
+      "reasoning_effort": "low",
+      "max_output": 4000
+    },
+    "spec_writer": {
+      "reasoning_effort": "low",
+      "max_output": 5000
+    },
+    "sourcing_strategist": {
+      "reasoning_effort": "medium",
+      "max_output": 5000
+    }
+  },
+  "daily_limits": {
+    "_why": "Overspending guard: a busy recruiter day is ~125 calls / ~600k tokens; past these limits the app stops calling the model until midnight.",
+    "llm_calls": 250,
+    "tokens": 1000000,
+    "radar_scans": 10
+  },
+  "chat_max_turns": 20,
+  "companies_per_day": 5,
+  "news_lookback_hours": 72,
+  "trials_lookback_days": 10,
+  "repeat_cooldown_days": 14,
+  "max_articles_to_analyze": 60,
+  "preferred_countries": [
+    "United States"
+  ],
+  "feeds": [
+    {
+      "name": "BioSpace",
+      "url": "https://www.biospace.com/all-news.rss"
+    },
+    {
+      "name": "STAT News (Biotech)",
+      "url": "https://www.statnews.com/category/biotech/feed/"
+    },
+    {
+      "name": "BioPharma Dive",
+      "url": "https://www.biopharmadive.com/feeds/news/"
+    },
+    {
+      "name": "Endpoints News",
+      "url": "https://endpts.com/feed/"
+    }
+  ],
+  "pricing_per_million": {
+    "_note": "Course rates from Lecture 11 (mult_agent_hp_tokenomics/backend/agents/budget.py), which the lecture itself labels PLACEHOLDER. No cached-input discount is assumed (conservative). Replace if the course publishes real Portkey prices.",
+    "input": 0.4,
+    "cached_input": 0.4,
+    "output": 1.6
+  },
+  "firm_defaults": {
+    "consultants": 50,
+    "team_size": 8,
+    "radar_scans_per_day": 1,
+    "emails_per_day": 10,
+    "turns_per_email": 2,
+    "pitches_per_week": 2,
+    "intakes_per_week": 1,
+    "workdays_per_month": 21
+  }
+}

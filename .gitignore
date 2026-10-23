@@ -1,0 +1,17 @@
+.env
+.venv/
+__pycache__/
+.DS_Store
+data/shown_companies.json
+data/pipeline.json
+data/*.log
+
+# Confidential SciPro materials: never commit
+*.pdf
+*.pptx
+data/latest_pitch.json
+data/test_pitch.html
+data/latest_intake.json
+
+# SciPro-confidential knowledge (deck, case-study PDFs, real emails): never commit
+private/

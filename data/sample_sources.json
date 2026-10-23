@@ -1,0 +1,681 @@
+{
+  "articles": [
+    {
+      "source": "BioSpace",
+      "title": "ESMO 2026: Marengo's bispecific antibody shrinks 8 tumor types in Phase 2",
+      "link": "https://www.biospace.com/drug-development/esmo-2026-marengos-bispecific-antibody-shrinks-8-tumor-types-in-phase-2",
+      "published": "2026-10-23",
+      "summary": "Invikafusp alfa, a first-in-class dual T cell agonist, showed an objective response in various types of cancer, particularly among patients who did not respond to previous checkpoint inhibitor therapy."
+    },
+    {
+      "source": "BioSpace",
+      "title": "US explores China biotech restrictions, exempts licensing deals",
+      "link": "https://www.biospace.com/business/us-explores-china-biotech-restrictions-exempts-licensing-deals",
+      "published": "2026-10-23",
+      "summary": "A new proposal from the U.S. government seeking to address investment in Chinese biotech as a matter of national security drew cautious statements from across the industry, with leaders vowing to ensure innovation isn\u2019t stifled."
+    },
+    {
+      "source": "BioSpace",
+      "title": "FDA uncages Aardvark\u2019s Prader-Willi study after new study cleared safety concerns",
+      "link": "https://www.biospace.com/fda/fda-uncages-aardvarks-prader-willi-study-after-new-study-cleared-safety-concerns",
+      "published": "2026-10-23",
+      "summary": "After cardiac safety signals led to a full clinical hold on Aardvark Therapeutics\u2019 studies of ARD-101, the biotech conducted an additional safety study, in which no cardiac events were detected. Aardvark plans to resume testing the candidate next year."
+    },
+    {
+      "source": "BioSpace",
+      "title": "Roche bets up to $813M on Zymeworks\u2019 lung cancer trispecific T cell engager",
+      "link": "https://www.biospace.com/deals/roche-bets-up-to-813m-on-zymeworks-lung-cancer-trispecific-t-cell-engager",
+      "published": "2026-10-23",
+      "summary": "Roche will pay Zymeworks $55 million upfront plus another $40 million once the partnership asset enters Phase 1b development and up to $718 million in additional milestones."
+    },
+    {
+      "source": "STAT News (Biotech)",
+      "title": "STAT+: Treasury proposes major restrictions to U.S. investment in Chinese biotech sector",
+      "link": "https://www.statnews.com/2026/10/23/new-china-biotech-limits-coins-act-proposal-us-pharma-reaction/?utm_campaign=rss",
+      "published": "2026-10-23",
+      "summary": "The proposal would restrict U.S. investments in Chinese biotechs, but still allows licensing deals."
+    },
+    {
+      "source": "STAT News (Biotech)",
+      "title": "STAT+: AI drug firm Pathos raises $237 million, pushing valuation to $3 billion",
+      "link": "https://www.statnews.com/2026/10/23/pathos-ai-bristol-myers-squibb-tempus-deal/?utm_campaign=rss",
+      "published": "2026-10-23",
+      "summary": "AI drug firm Pathos raises $237 million, a deal that brings together a big Tempus dataset, AI analysis from Pathos, and drug development from BMS."
+    },
+    {
+      "source": "STAT News (Biotech)",
+      "title": "STAT+: Tango reports 82% tumor response rate in trial of combo therapy for advanced pancreatic cancer",
+      "link": "https://www.statnews.com/2026/10/23/esmo-2026-trial-results-tango-therapeutics-vopimetostat-revolution-medicines-rasonque/?utm_campaign=rss",
+      "published": "2026-10-23",
+      "summary": "An experimental drug combination led to tumor responses in 82% of patients with a certain type of advanced pancreatic cancer, Tango Therapeutics reported."
+    },
+    {
+      "source": "STAT News (Biotech)",
+      "title": "STAT+: Alnylam says Huntington\u2019s drug shows promise in early study",
+      "link": "https://www.statnews.com/2026/10/23/huntingtons-alnylam-gene-silencing-brezosiran/?utm_campaign=rss",
+      "published": "2026-10-23",
+      "summary": "It\u2019s yet to be seen whether Alnylam\u2019s drug will actually slow progression of Huntington\u2019s, but the field is lively."
+    },
+    {
+      "source": "BioPharma Dive",
+      "title": "Protein degrader specialist Lycia prices $318M IPO",
+      "link": "https://www.biopharmadive.com/news/lycia-therapeutics-targeted-protein-degraders-ipo-pricing/833624/",
+      "published": "2026-10-23",
+      "summary": "Funds from the upsized offering will support a trio of protein-degrading medicines in development for allergic conditions as well as the autoimmune disorder Graves\u2019 disease."
+    },
+    {
+      "source": "Endpoints News",
+      "title": "Pathos raises $237M at $3B valuation, signs Bristol Myers neuro partnership",
+      "link": "https://endpoints.news/pathos-raises-237m-at-3b-valuation-signs-bristol-myers-neuro-partnership/",
+      "published": "2026-10-23",
+      "summary": "AI-driven biotech Pathos AI has corralled a $237 million Series E at a $3 billion valuation, the New York-based company said on Wednesday. The large fundraise comes in below the $300 million that the biotech ..."
+    },
+    {
+      "source": "Endpoints News",
+      "title": "Post-Hoc Live: Did the US just kill off China biotech deals?",
+      "link": "https://endpoints.news/post-hoc-live-did-the-us-just-kill-off-china-biotech-deals/",
+      "published": "2026-10-23",
+      "summary": "Last night, the Treasury Department issued a proposed rule to implement the COINS Act, the 2025 law that governs US investment in sensitive technologies in China and other countries. In a surprise turn, a broad ..."
+    },
+    {
+      "source": "Endpoints News",
+      "title": "Biotech takes a hit as dealmakers take a knee in Q3",
+      "link": "https://endpoints.news/biotech-takes-a-hit-as-dealmakers-take-a-knee-in-q3/",
+      "published": "2026-10-23",
+      "summary": "A chill wind blew through the biopharma industry in the third quarter as the pace of M&A from the first half of the year cooled down, big upfront licensing deals slackened and venture investing slowed ..."
+    },
+    {
+      "source": "Endpoints News",
+      "title": "Warp Sciences emerges from stealth, founded by ex-OpenAI science chief and tech veterans",
+      "link": "https://endpoints.news/warp-sciences-emerges-from-stealth-founded-by-ex-openai-science-chief-and-tech-veterans/",
+      "published": "2026-10-23",
+      "summary": "With $215 million in a Series A raise, former OpenAI head of science Kevin Weil has launched a startup in an effort to help pharma companies make the building blocks for new drugs using artificial ..."
+    },
+    {
+      "source": "Endpoints News",
+      "title": "Tango combo clears Rasonque bar, Takeda's Innovent bet gets early returns, plus more from #ESMO26",
+      "link": "https://endpoints.news/tango-combo-clears-rasonque-bar-takedas-innovent-bet-gets-early-returns-and-more-from-esmo26/",
+      "published": "2026-10-23",
+      "summary": "MADRID \u2014 While Friday is officially the first day of this year's ESMO congress, some of the anticipation has deflated after keenly awaited data on Moderna and Merck's cancer vaccine were leaked on ..."
+    },
+    {
+      "source": "Endpoints News",
+      "title": "Al Sandrock to step down as Voyager CEO; Insmed adds Paul Hudson to board",
+      "link": "https://endpoints.news/al-sandrock-to-step-down-as-voyager-ceo-insmed-adds-paul-hudson-to-board/",
+      "published": "2026-10-23",
+      "summary": "\u2192 Al Sandrock is calling it quits as CEO of Voyager Therapeutics in the first quarter next year, but he will stay on the board. Chief business and operating officer Robin Swartz, a Sanofi Genzyme ..."
+    },
+    {
+      "source": "Endpoints News",
+      "title": "Star Therapeutics gets $200M to try repeating its Vega, Electra successes",
+      "link": "https://endpoints.news/star-therapeutics-gets-200m-to-try-repeating-its-vega-electra-successes/",
+      "published": "2026-10-23",
+      "summary": "Star Therapeutics has collected $200 million to see whether its homegrown research can produce a new pipeline of medicines after prior successes that have been shipped elsewhere. The new capital is essentially a fresh start ..."
+    },
+    {
+      "source": "Endpoints News",
+      "title": "Alnylam plans bigger study of RNA drug for Huntington\u2019s disease",
+      "link": "https://endpoints.news/alnylam-plans-bigger-study-of-rna-drug-for-huntingtons-disease/",
+      "published": "2026-10-23",
+      "summary": "As with many of the most feared neurological conditions, Huntington\u2019s disease has proven to be a minefield for drug developers. Promising biomarker data didn\u2019t translate into clinical benefits in Roche\u2019s recent study ..."
+    },
+    {
+      "source": "Endpoints News",
+      "title": "Gilead strikes $1.3B upfront China deal for oral IL-23 drug",
+      "link": "https://endpoints.news/gilead-strikes-1-3b-upfront-china-deal-for-oral-il-23-drug/",
+      "published": "2026-10-23",
+      "summary": "Gilead is going to Shanghai for its latest expansion in the hot inflammation market, dishing out $1.28 billion upfront to PepStar Therapeutics for a Phase 1 asset. The California biopharma is gaining hold of an ..."
+    },
+    {
+      "source": "BioSpace",
+      "title": "ESMO 2026: Merck, Moderna shares fall as cancer vaccine disappoints after data leak",
+      "link": "https://www.biospace.com/drug-development/esmo-2026-merck-moderna-shares-fall-as-cancer-vaccine-disappoints-after-data-leak",
+      "published": "2026-10-22",
+      "summary": "A combination of the personalized cancer vaccine intismeran autogene and Merck's Keytruda just barely cleared analysts\u2019 expectations for recurrence-free survival, leaving questions as to its applicability to tumor types beyond melanoma."
+    },
+    {
+      "source": "BioSpace",
+      "title": "AbbVie\u2019s skin disease drug lessens abscess burden in Phase 3 but falls below expectations",
+      "link": "https://www.biospace.com/drug-development/abbvies-skin-disease-drug-lessens-abscess-burden-in-phase-3-but-falls-below-expectations",
+      "published": "2026-10-22",
+      "summary": "AbbVie is eyeing regulatory filings in 2027 for the skin disease drug lutikizumab after clearing multiple endpoints in a late-stage trial, but the results have disappointed some analysts, raising questions about its commercial prospects."
+    },
+    {
+      "source": "BioSpace",
+      "title": "Biohaven shares pop as FDA accepts resubmission for ataxia drug with adcomm expected",
+      "link": "https://www.biospace.com/drug-development/biohaven-shares-pop-as-fda-accepts-resubmission-for-ataxia-drug-with-adcomm-expected",
+      "published": "2026-10-22",
+      "summary": "Troriluzole, in development for spinocerebellar ataxia, was rejected nearly a year ago when the FDA took issue with the design of Biohaven\u2019s registrational study. The agency has now agreed to review a new application and render a decision in the first quarter of 2027."
+    },
+    {
+      "source": "BioSpace",
+      "title": "Ferring cuts jobs in move to better support strategic priorities",
+      "link": "https://www.biospace.com/biospace-layoff-tracker",
+      "published": "2026-10-22",
+      "summary": "Follow along as BioSpace tracks job cuts and restructuring initiatives."
+    },
+    {
+      "source": "BioSpace",
+      "title": "Biotech notches 31 IPOs already this year, with 4 more joining queue",
+      "link": "https://www.biospace.com/business/biotech-notches-31-ipos-already-this-year-with-4-more-joining-queue",
+      "published": "2026-10-22",
+      "summary": "The sector\u2019s IPO tally has surpassed each of the past four years, with four October debuts adding momentum\u2014but activity still remains well below the COVID-19 boom that saw nearly 100 public debuts in 2021."
+    },
+    {
+      "source": "BioSpace",
+      "title": "GSK, Ionis hepatitis B functional cure breaks open market for followers",
+      "link": "https://www.biospace.com/drug-development/gsk-ionis-hepatitis-b-functional-cure-breaks-open-market-for-followers",
+      "published": "2026-10-22",
+      "summary": "The approval of Hibsago has created a new market for a handful of biopharmas, including Gilead, Arrowhead, and Vir, to fill in."
+    },
+    {
+      "source": "BioSpace",
+      "title": "Roche\u2019s pipeline trim claims Poseida\u2019s off-the-shelf CAR T asset",
+      "link": "https://www.biospace.com/business/roches-pipeline-trim-claims-poseidas-off-the-shelf-car-t-asset",
+      "published": "2026-10-22",
+      "summary": "Aside from RG6540, Roche also discontinued a host of other early-stage assets, including an antisense oligonucleotide for Alzheimer\u2019s disease and a small-molecule candidate for geographic atrophy."
+    },
+    {
+      "source": "BioSpace",
+      "title": "Why investors are taking another look at kidney disease",
+      "link": "https://www.biospace.com/drug-development/why-investors-are-taking-another-look-at-kidney-disease",
+      "published": "2026-10-22",
+      "summary": "In this episode of Denatured, you\u2019ll hear from Bruce Culleton, CEO at ProKidney and Demetri Maxim, CEO at Nephrogen. We discuss why kidney disease has long been a hard target for cell and gene therapies, and what new delivery strategies, therapeutic approaches and regulatory clarity mean for commercially viable products."
+    },
+    {
+      "source": "BioSpace",
+      "title": "Roivant's TYK2/JAK inhibitor reduces need for steroids in inflammatory eye disease",
+      "link": "https://www.biospace.com/drug-development/roivants-tyk2-jak-inhibitor-reduces-need-for-steroids-in-inflammatory-eye-disease",
+      "published": "2026-10-22",
+      "summary": "Brepocitinib is on a roll. After winning approval for an autoimmune skin disease, Roivant Sciences subsidiary Priovant\u2019s drug hit all primary and secondary endpoints in a pair of Phase 3 non-infectious uveitis trials, leading analysts to say the candidate \u201clooked superior to Humira.\u201d"
+    },
+    {
+      "source": "BioSpace",
+      "title": "ESMO 2026: Merck\u2019s Kelun-partnered ADC hits the \u2018Goldilocks zone,\u2019 VP says",
+      "link": "https://www.biospace.com/drug-development/esmo-2026-mercks-kelun-partnered-adc-hits-the-goldilocks-zone-vp-says",
+      "published": "2026-10-22",
+      "summary": "At the European Society for Medical Oncology meeting this weekend, Merck will showcase three late-stage trials of its Kelun-Biotech\u2013partnered TROP2-directed antibody sac-TMT that VP of Chemistry Alan Northrup says gets the payload release \u201cjust right.\u201d"
+    },
+    {
+      "source": "BioSpace",
+      "title": "Critical decisions that spurred these 40 Under 40 winners to success",
+      "link": "https://www.biospace.com/business/critical-decisions-that-spurred-these-40-under-40-winners-to-success",
+      "published": "2026-10-22",
+      "summary": "Securing financing that allowed an exit from academia, leaving ecology and evolutionary biology for biomedical engineering and shifting from business development to entrepreneurship are among key turning points for three biopharma professionals."
+    },
+    {
+      "source": "BioSpace",
+      "title": "As H-1B visa changes keep coming, biopharmas adjust hiring approach",
+      "link": "https://www.biospace.com/job-trends/as-h-1b-visa-changes-keep-coming-biopharmas-adjust-hiring-approach",
+      "published": "2026-10-22",
+      "summary": "The $100,000 H-1B visa fee has significantly affected who biopharma companies hire, according to two experts. It\u2019s not the only program adjustment affecting foreign-born job seekers\u2019 odds of working in the U.S."
+    },
+    {
+      "source": "STAT News (Biotech)",
+      "title": "STAT+: Detailed data confirm Moderna and Merck cancer vaccine met key endpoints in melanoma trial",
+      "link": "https://www.statnews.com/2026/10/22/esmo-moderna-merck-cancer-vaccine-intismeran-data-released/?utm_campaign=rss",
+      "published": "2026-10-22",
+      "summary": "A Moderna and Merck personalized mRNA cancer vaccine reduced the risk of disease recurrence in patients with melanoma by 42% compared to standard treatment."
+    },
+    {
+      "source": "STAT News (Biotech)",
+      "title": "STAT+: AbbVie skin disorder drug succeeds in late-stage trial, but results miss market expectations",
+      "link": "https://www.statnews.com/2026/10/22/abbvie-lutikizumab-hidradenitis-suppurativa-drug-phase-3-results/?utm_campaign=rss",
+      "published": "2026-10-22",
+      "summary": "AbbVie's lutikizumab, an experimental therapy for a chronic skin condition, succeeded in a late-stage trial but missed market expectations."
+    },
+    {
+      "source": "STAT News (Biotech)",
+      "title": "STAT+: Will the Treasury restrict U.S. investment in the Chinese biotech sector?",
+      "link": "https://www.statnews.com/2026/10/22/biotech-news-treasury-restrictions-for-us-investment-in-chinese-biotech/?utm_campaign=rss",
+      "published": "2026-10-22",
+      "summary": "Rumors are swirling that the Treasury Department this week is going to propose a rule that restricts U.S. investment in the Chinese biotech sector."
+    },
+    {
+      "source": "STAT News (Biotech)",
+      "title": "STAT+: What to expect from the Moderna-Merck cancer vaccine data reveal",
+      "link": "https://www.statnews.com/2026/10/22/esmo-2026-what-to-know-ahead-of-moderna-merck-cancer-vaccine-data-reveal/?utm_campaign=rss",
+      "published": "2026-10-22",
+      "summary": "The Moderna-Merck cancer vaccine data reveal is days away. Here's what to expect."
+    },
+    {
+      "source": "STAT News (Biotech)",
+      "title": "STAT+: FDA finalizes its guidance on apps related to drugs, pharma rejoices",
+      "link": "https://www.statnews.com/2026/10/22/fda-pdurs-guidance-dtx-telehealth-glp1-addiction-health-tech/?utm_campaign=rss",
+      "published": "2026-10-22",
+      "summary": "In this edition of STAT Health Tech: FDA's guidance on prescription drug use-related software, and telehealth pushing GLP-1s for addiction."
+    },
+    {
+      "source": "BioPharma Dive",
+      "title": "Moderna, Merck shares fall on eagerly anticipated cancer vaccine results",
+      "link": "https://www.biopharmadive.com/news/moderna-merck-esmo-intismeran-melanoma-vaccine-results/833765/",
+      "published": "2026-10-22",
+      "summary": "A combination of the shot and the immunotherapy Keytruda cut the risk of relapse or death by 42% in a landmark melanoma study that met Wall Street expectations but triggered a \u201csell-the-news reaction,\u201d one analyst wrote."
+    },
+    {
+      "source": "BioPharma Dive",
+      "title": "Biohaven\u2019s previously rejected rare disease drug to get fresh FDA review",
+      "link": "https://www.biopharmadive.com/news/biohaven-troriluzole-vyglxia-sca-fda-accept-application/833703/",
+      "published": "2026-10-22",
+      "summary": "U.S. regulators have accepted a new submission for Vyglxia, offering the chance at a turnaround for another rare disease medicine spurned by previous FDA leadership."
+    },
+    {
+      "source": "BioPharma Dive",
+      "title": "GLP-1 compounder issues recall for copycat Zepbound",
+      "link": "https://www.biopharmadive.com/news/glp1-obesity-drug-recall-apothecary-tirzepatide-zepbound/833712/",
+      "published": "2026-10-22",
+      "summary": "The notice adds to growing concerns about the safety of knockoff weight loss drugs, which have remained popular despite FDA warnings and legal pressure from Eli Lilly and Novo."
+    },
+    {
+      "source": "BioPharma Dive",
+      "title": "Roche affirms sales outlook amid doubts about its future",
+      "link": "https://www.biopharmadive.com/news/roche-3q-2026-earnings-sales-outlook/833684/",
+      "published": "2026-10-22",
+      "summary": "Lower-than-expected sales of Xolair stood out as the Swiss drugmaker readies for an onslaught of generic competition for top products."
+    },
+    {
+      "source": "Endpoints News",
+      "title": "Treasury proposal would sharply limit US investments in much of China biotech",
+      "link": "https://endpoints.news/treasury-proposal-would-sharply-limit-us-investments-in-much-of-china-biotech/",
+      "published": "2026-10-22",
+      "summary": "Draft regulations from the Treasury Department would put broad limits on what types of drug and biotech assets US companies and venture capitalists could invest in and what deals they can make. The"
+    },
+    {
+      "source": "Endpoints News",
+      "title": "Pfizer details mixed Lyme disease vaccine data",
+      "link": "https://endpoints.news/pfizer-details-mixed-lyme-disease-vaccine-data/",
+      "published": "2026-10-22",
+      "summary": "New data on a closely watched Lyme disease vaccine from Pfizer and Valneva provide details on the near-miss in one of two analyses, as the vaccine's commercial future hangs in the balance. Unveiled Thursday at ..."
+    },
+    {
+      "source": "Endpoints News",
+      "title": "#ESMO26: Data leak for Merck and Moderna\u2019s therapeutic cancer vaccine",
+      "link": "https://endpoints.news/data-leaks-for-merck-and-modernas-therapeutic-cancer-vaccine/",
+      "published": "2026-10-22",
+      "summary": "MADRID \u2014 Data from a Phase 3 trial of Moderna and Merck\u2019s cancer vaccine showed that it continued to cut patients\u2019 risk of death or their cancer recurring, but fell short of investors\u2019 high hopes. The ..."
+    },
+    {
+      "source": "Endpoints News",
+      "title": "Roche says it will help patients who are 'anxiously awaiting' its new breast cancer drug",
+      "link": "https://endpoints.news/roche-says-it-will-help-patients-who-are-anxiously-awaiting-its-new-breast-cancer-drug/",
+      "published": "2026-10-22",
+      "summary": "Roche is gearing up for a major launch with its breast cancer pill giredestrant, and according to Teresa Graham, head of the company\u2019s pharma unit, patients are clamoring to get hold of the drug. Giredestrant ..."
+    },
+    {
+      "source": "Endpoints News",
+      "title": "American Medical Association CEO talks regulating AI care",
+      "link": "https://endpoints.news/american-medical-association-ceo-talks-regulating-ai-care/",
+      "published": "2026-10-22",
+      "summary": "As we get closer to autonomous, AI-driven medical care becoming a reality, regulators are racing to catch up. The FDA in August released a discussion paper with ideas about how ..."
+    },
+    {
+      "source": "Endpoints News",
+      "title": "A hepatitis B hold lifted and drug tabled; Ultomiris' accelerated approval",
+      "link": "https://endpoints.news/a-hepatitis-b-hold-lifted-and-drug-tabled-ultomiris-accelerated-approval/",
+      "published": "2026-10-22",
+      "summary": "Plus news about Biohaven, Arcus Biosciences and a Boehringer Ingelheim and Microsoft collaboration. Hold on Arbutus drug lifted: It\u2019s been a long, tough road for Arbutus Biopharma. The company has"
+    },
+    {
+      "source": "Endpoints News",
+      "title": "AbbVie notches Phase 3 win in painful skin condition, FDA filing likely next year",
+      "link": "https://endpoints.news/abbvie-notches-phase-3-win-in-painful-skin-condition-fda-filing-likely-next-year/",
+      "published": "2026-10-22",
+      "summary": "AbbVie unwrapped a Phase 3 success on Thursday for an experimental drug designed to treat a debilitating skin disease. In the trial, AbbVie\u2019s IL-1\u03b1 and IL-1\u03b2 inhibitor lutikizumab improved patient response ..."
+    },
+    {
+      "source": "Endpoints News",
+      "title": "Sanofi's new German site; radioisotope deals from Northstar and Telix",
+      "link": "https://endpoints.news/sanofis-new-german-site-radioisotope-deals-from-northstar-and-telix/",
+      "published": "2026-10-22",
+      "summary": "Plus more from Baxter and United Therapeutics. Sanofi starts construction of an insulin factory: Sanofi has broken ground on a new 36,000-square-meter manufacturing facility at its site in Frankfurt, which ..."
+    },
+    {
+      "source": "Endpoints News",
+      "title": "Big trials push beyond obesity to see if GLP-1s can quell alcohol, drug cravings",
+      "link": "https://endpoints.news/big-trials-push-beyond-obesity-to-see-if-glp-1s-can-quell-alcohol-drug-cravings/",
+      "published": "2026-10-22",
+      "summary": "For nearly as long as they've been approved for diabetes and weight loss, GLP-1 drugs have captured the public imagination as a possible solution to diseases far beyond metabolic disorders. That potential is now inching ..."
+    },
+    {
+      "source": "Endpoints News",
+      "title": "Healthcare industry weighs in on evidence standards for generative AI medical devices",
+      "link": "https://endpoints.news/healthcare-industry-weighs-in-on-evidence-standards-for-generative-ai-medical-devices/",
+      "published": "2026-10-22",
+      "summary": "How much evidence should the FDA require before it authorizes a generative AI-enabled medical device? The question was a point of contention among healthcare lobbying organizations and tech companies, who weighed in as the FDA ..."
+    },
+    {
+      "source": "Endpoints News",
+      "title": "Redesign Health merges with ARC Global in $2B deal to help hospitals build startups",
+      "link": "https://endpoints.news/redesign-health-merges-with-arc-global-in-2b-deal-to-help-hospitals-build-startups/",
+      "published": "2026-10-22",
+      "summary": "Health tech venture firm Redesign Health is merging with ARC Global, the innovation arm of Sheba Medical Center, to help hospitals in different countries develop and sell software. The new company will combine the two ..."
+    },
+    {
+      "source": "Endpoints News",
+      "title": "Georgiamune sells solid tumor drug to Italy's Menarini for up to $1.1B",
+      "link": "https://endpoints.news/georgiamune-sells-solid-tumor-drug-to-italys-menarini-for-up-to-1-1b/",
+      "published": "2026-10-22",
+      "summary": "A small Maryland biotech is shipping a preclinical cancer drug to a family-owned Italian pharma in a deal worth up to $1.1 billion if all goes according to plan, the companies exclusively told Endpoints News. ..."
+    },
+    {
+      "source": "Endpoints News",
+      "title": "Roche talks up Phase 3 success rate as it unveils pipeline cuts",
+      "link": "https://endpoints.news/roche-talks-up-phase-3-success-rate-as-it-unveils-pipeline-cuts/",
+      "published": "2026-10-22",
+      "summary": "Where other European pharmas \u2014 notably Novartis, Novo and AstraZeneca \u2014 have suffered huge late-stage clinical failures this summer, Roche is feeling rather smug. CEO Thomas Schinecker said ..."
+    },
+    {
+      "source": "BioSpace",
+      "title": "FDA accuses Baxter leaders of \u2018inadequate\u2019 oversight after finding GMP failings",
+      "link": "https://www.biospace.com/drug-delivery/fda-accuses-baxter-leaders-of-inadequate-oversight-after-finding-gmp-failings",
+      "published": "2026-10-21",
+      "summary": "The recurrence of violations at multiple sites led the FDA to conclude that Baxter management must improve its oversight and control of manufacturing."
+    },
+    {
+      "source": "BioSpace",
+      "title": "8 companies hiring remote workers",
+      "link": "https://www.biospace.com/job-trends/8-companies-hiring-remote-workers",
+      "published": "2026-10-21",
+      "summary": "Looking for a remote biopharma position? Check out the BioSpace list of eight companies hiring life sciences professionals like you."
+    },
+    {
+      "source": "BioSpace",
+      "title": "Drug prices climb past $250K as US patients balk at the pharmacy",
+      "link": "https://www.biospace.com/drug-delivery/drug-prices-climb-past-250k-as-us-patients-balk-at-the-pharmacy",
+      "published": "2026-10-21",
+      "summary": "Just one-third of patients prescribed new medicines filled them within 30 days, with a new report from the Institute for Clinical and Economic Review and West Health suggesting that cost is the problem."
+    },
+    {
+      "source": "BioSpace",
+      "title": "Disc\u2019s redemption, China\u2019s rise, Veradermics\u2019 validation, ESMO\u2019s headliners",
+      "link": "https://www.biospace.com/business/discs-redemption-chinas-rise-veradermics-validation-esmos-headliners",
+      "published": "2026-10-21",
+      "summary": "China cracks down on some biotechnology ownership transfers\u2014but will the new policy impact licensing deals?; Disc Medicine\u2019s Phase 3 data sweep redeems rejected rare disease therapy, teeing up another FDA run; and the ESMO conference gets underway in Madrid this week, with much-anticipated data from Merck, and Summit Therapeutics."
+    },
+    {
+      "source": "STAT News (Biotech)",
+      "title": "STAT+: What\u2019s the deal with Isomorphic Labs?",
+      "link": "https://www.statnews.com/2026/10/21/whats-the-deal-with-isomorphic-labs-ai-prognosis/?utm_campaign=rss",
+      "published": "2026-10-21",
+      "summary": "In this edition of STAT's AI Prognosis: What does Isomorphic Labs' high valuation say about AI's role in drug development, and the debate around AI and cost of care."
+    },
+    {
+      "source": "STAT News (Biotech)",
+      "title": "STAT+: GSK picks up hep B drug approval",
+      "link": "https://www.statnews.com/2026/10/21/biotech-news-gsk-picks-up-hep-b-drug-approval/?utm_campaign=rss",
+      "published": "2026-10-21",
+      "summary": "GSK has won FDA approval for its hepatitis B drug, which extended functional cures to far more patients than previous methods."
+    },
+    {
+      "source": "STAT News (Biotech)",
+      "title": "STAT+: Roivant says closely watched immune drug succeeded in new eye disease",
+      "link": "https://www.statnews.com/2026/10/21/roivant-immune-drug-lisraya-noninfectious-uveitis-trial-results/?utm_campaign=rss",
+      "published": "2026-10-21",
+      "summary": "An immune drug from Roivant could be headed to a new market, after the company reported positive trials in the eye disease non-infectious uveitis."
+    },
+    {
+      "source": "STAT News (Biotech)",
+      "title": "STAT+: A German biotech has big ambitions in cancer. Now it needs to get a medicine approved",
+      "link": "https://www.statnews.com/2026/10/21/immatics-cancer-cell-therapy-targets-prame-protein/?utm_campaign=rss",
+      "published": "2026-10-21",
+      "summary": "After a quarter century of work, the German biotech Immatics is facing a pivotal moment as it awaits Phase 3 results for its lead candidate in melanoma."
+    }
+  ],
+  "trial_sponsors": [
+    {
+      "sponsor": "Colgate Palmolive",
+      "trials": [
+        {
+          "nct_id": "NCT07870018",
+          "title": "Clinical Research Study to Evaluate Stain Removal and Whitening Improvement",
+          "phase": "PHASE2",
+          "posted": "2026-10-13",
+          "conditions": [
+            "Tooth Whitening",
+            "Tooth Discoloration"
+          ]
+        }
+      ],
+      "countries": [
+        "United States"
+      ]
+    },
+    {
+      "sponsor": "IRulya Therapeutics Inc.",
+      "trials": [
+        {
+          "nct_id": "NCT07886554",
+          "title": "LAM-001 for the Treatment of Sarcoidosis Associated Pulmonary Hypertension (SAPH)",
+          "phase": "PHASE2",
+          "posted": "2026-10-21",
+          "conditions": [
+            "Sarcoidosis Associated Pulmonary Hypertension"
+          ]
+        }
+      ],
+      "countries": [
+        "United States"
+      ]
+    },
+    {
+      "sponsor": "GI Innovation, Inc.",
+      "trials": [
+        {
+          "nct_id": "NCT07871435",
+          "title": "GI-102 (CD80-IgG4 Fc-IL2v3) in Combination With Pasritamig in Patients With Metastatic Castration-resistant Prostate Cancer (mCRPC) (JET-201)",
+          "phase": "PHASE1/PHASE2",
+          "posted": "2026-10-13",
+          "conditions": [
+            "Metastatic Castration-resistant Prostate Cancer (mCRPC)"
+          ]
+        }
+      ],
+      "countries": [
+        "South Korea",
+        "United States"
+      ]
+    },
+    {
+      "sponsor": "GE Healthcare",
+      "trials": [
+        {
+          "nct_id": "NCT07873463",
+          "title": "Flutemetamol F 18 Injection Formulation Comparison",
+          "phase": "PHASE2",
+          "posted": "2026-10-14",
+          "conditions": [
+            "Cognitive Dysfunction"
+          ]
+        }
+      ],
+      "countries": [
+        "United States"
+      ]
+    },
+    {
+      "sponsor": "Clive Michelsen",
+      "trials": [
+        {
+          "nct_id": "NCT07871877",
+          "title": "Medically Supervised Ibogaine With 12-Month Digital Recovery Support for Opioid Use Disorder",
+          "phase": "PHASE1/PHASE2",
+          "posted": "2026-10-13",
+          "conditions": [
+            "Opioid Use Disorder",
+            "Opioid Withdrawal",
+            "Substance Use Disorders"
+          ]
+        }
+      ],
+      "countries": [
+        "United States"
+      ]
+    },
+    {
+      "sponsor": "Graviton Bioscience Corporation",
+      "trials": [
+        {
+          "nct_id": "NCT07870590",
+          "title": "GV101 for Friedreich's Ataxia (FA) Treatment",
+          "phase": "PHASE2",
+          "posted": "2026-10-13",
+          "conditions": [
+            "Friedreich's Ataxia"
+          ]
+        }
+      ],
+      "countries": [
+        "United States"
+      ]
+    },
+    {
+      "sponsor": "Tarsus Pharmaceuticals, Inc.",
+      "trials": [
+        {
+          "nct_id": "NCT07886268",
+          "title": "A Study to Evaluate the Efficacy and Safety of TP-06 for PCED",
+          "phase": "PHASE2",
+          "posted": "2026-10-21",
+          "conditions": [
+            "Persistent Corneal Epithelial Defect"
+          ]
+        }
+      ],
+      "countries": [
+        "Dominican Republic",
+        "El Salvador",
+        "Mexico",
+        "United States"
+      ]
+    },
+    {
+      "sponsor": "Telix Pharmaceuticals (Innovations) Pty Limited",
+      "trials": [
+        {
+          "nct_id": "NCT07870746",
+          "title": "Phase 2a Study to Assess Safety and Efficacy of Two 177Lu-TLX250 Dosing Regimens in Advanced Relapsed or Recurrent ccRCC",
+          "phase": "PHASE2",
+          "posted": "2026-10-13",
+          "conditions": [
+            "ccRCC",
+            "Renal Cell Carcinoma (Kidney Cancer)",
+            "Renal Cell Carcinoma (RCC)"
+          ]
+        }
+      ],
+      "countries": [
+        "United States"
+      ]
+    },
+    {
+      "sponsor": "SystImmune Inc.",
+      "trials": [
+        {
+          "nct_id": "NCT07869836",
+          "title": "BL-M07D1 (Trastuzumab Brengitecan T-bren) vs Standard of Care Platinum-based Chemotherapy (PBC) for HER2-expressing Metastatic Urothelial Cancer After",
+          "phase": "PHASE3",
+          "posted": "2026-10-13",
+          "conditions": [
+            "Urothelial Cancer",
+            "Metastatic Urothelial Cancer",
+            "Bladder Cancer"
+          ]
+        }
+      ],
+      "countries": [
+        "United States"
+      ]
+    },
+    {
+      "sponsor": "Hikma Pharmaceuticals USA Inc.",
+      "trials": [
+        {
+          "nct_id": "NCT07891780",
+          "title": "Pharmacokinetics and Safety of a Single Dose of Epinephrine Nasal Spray in Paediatric Allergy Patients",
+          "phase": "PHASE2",
+          "posted": "2026-10-23",
+          "conditions": [
+            "Epinephrine",
+            "Hypersensitivity, Immediate",
+            "Anaphylaxis"
+          ]
+        }
+      ],
+      "countries": [
+        "United States"
+      ]
+    },
+    {
+      "sponsor": "Summit Therapeutics",
+      "trials": [
+        {
+          "nct_id": "NCT07877194",
+          "title": "A Clinical Study of Ivonescimab in Combination With Cadonilimab or Ipilimumab for Advanced Renal Cancer",
+          "phase": "PHASE2",
+          "posted": "2026-10-16",
+          "conditions": [
+            "Renal Cell Carcinoma, Clear Cell"
+          ]
+        }
+      ],
+      "countries": [
+        "China",
+        "United States"
+      ]
+    },
+    {
+      "sponsor": "Alembic Therapeutics",
+      "trials": [
+        {
+          "nct_id": "NCT07871968",
+          "title": "A Study to Investigate Pivmecillinam Versus Nitrofurantoin in Female Adolescents 12 to Less Than 18 Years of Age With Uncomplicated Urinary Tract Infe",
+          "phase": "PHASE2",
+          "posted": "2026-10-13",
+          "conditions": [
+            "Uncomplicated Urinary Tract Infections"
+          ]
+        }
+      ],
+      "countries": [
+        "United States"
+      ]
+    },
+    {
+      "sponsor": "Adneuris Therapeutics, Inc.",
+      "trials": [
+        {
+          "nct_id": "NCT07874620",
+          "title": "A Study of Cebranopadol for Opioid Withdrawal Symptoms in Adults With Chronic Pain",
+          "phase": "PHASE2",
+          "posted": "2026-10-15",
+          "conditions": [
+            "Chronic Pain",
+            "Pain",
+            "Opioid Withdrawal (Disorder)"
+          ]
+        }
+      ],
+      "countries": [
+        "United States"
+      ]
+    },
+    {
+      "sponsor": "Pathalys Pharma",
+      "trials": [
+        {
+          "nct_id": "NCT07890584",
+          "title": "A Study of PLS240 in Pediatric Participants With Secondary Hyperparathyroidism and Chronic Kidney Disease on Hemodialysis",
+          "phase": "PHASE3",
+          "posted": "2026-10-22",
+          "conditions": [
+            "Chronic Kidney Disease (CKD)",
+            "Secondary Hyperparathyroidism"
+          ]
+        }
+      ],
+      "countries": [
+        "United States"
+      ]
+    }
+  ]
+}
