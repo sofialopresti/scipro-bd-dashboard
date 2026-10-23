@@ -8,16 +8,33 @@ builds tailored pitch decks, and turns job intake notes into a search plan.
 
 ## Run it
 
+Needs Python 3.9 or newer (tested on 3.9 and 3.14). Put a `.env` file containing
+`PORTKEY_API_KEY=...` in this folder or the folder one level up (see `.env.example`).
+
+**Mac / Linux**
+
 ```bash
 python3 -m venv .venv
 .venv/bin/pip install -r requirements.txt
 .venv/bin/python app.py
 ```
 
-Then open http://127.0.0.1:8050 (set `PORT=xxxx` to use a different port)
+**Windows (PowerShell or Command Prompt)**
 
-The app needs a `PORTKEY_API_KEY` (see `.env.example`). It looks for `.env` in this folder first,
-then in the folder one level up.
+```bat
+python -m venv .venv
+.venv\Scripts\pip install -r requirements.txt
+.venv\Scripts\python app.py
+```
+
+Then open http://127.0.0.1:8050 in a browser. Setup takes about a minute. To use a different
+port, set the `PORT` environment variable.
+
+Tips:
+- If a news site is slow or down, check **Use saved sample data** on Signal Radar to run the
+  agents on the included sample news and trials (`data/sample_sources.json`).
+- A `NotOpenSSLWarning` on macOS's built-in Python 3.9 is harmless.
+- Each Signal Radar scan takes 30-60 seconds; the other tools take 5-20 seconds.
 
 ## Pages
 
