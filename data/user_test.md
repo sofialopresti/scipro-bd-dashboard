@@ -22,3 +22,9 @@ The app times are measured AI generation times from the traced run on 2026-10-23
 
 **Standout feature:** the sourcing plan. Knowing where the right people work and writing the boolean
 searches is one of the hardest parts of a search.
+
+## Feedback from a current SciPro consultant
+
+Gianna, Senior Consultant at SciPro, tried an early version through a password-protected test link:
+
+> "Wow! Look at this handy dandy tool. You have to promise to share this agent with me for me to use IRL."

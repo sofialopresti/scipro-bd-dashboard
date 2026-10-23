@@ -295,7 +295,7 @@ a{color:var(--teal)}
 <div class="stat"><b>4–6.5 h → ~1.5 min</b><span>per company, by hand vs. the app's AI time</span></div>
 <div class="stat"><b>~$1</b><span>model cost per recruiter per month (placeholder rates)</span></div>
 <div class="stat"><b>4 / 4</b><span>picks with a readable job board were hiring now</span></div>
-<div class="stat"><b>13 / 13</b><span>safety tests passed</span></div>
+<div class="stat"><b>"use IRL"</b><span>a current SciPro consultant wants it for real work</span></div>
 </div>
 <p><b>Time saved (sources: my experience as a former SciPro 360 recruiter, labeled as estimates; the app's own timing log, measured).</b> I didn't re-time the manual work. These are my estimates from doing this job for real. The app's times are the AI generation times measured in the traced run; they don't include the recruiter's time to review and edit.</p>
 <table>
@@ -312,13 +312,15 @@ a{color:var(--teal)}
 <p>Even if the recruiter spends <b>30 minutes</b> reviewing and editing everything the app produces (an assumption, not measured), one company goes from about <b>4–6.5 hours to about half an hour</b>. The biggest single saving is the <b>sourcing plan</b>: knowing which companies employ the right people and writing the boolean searches is skilled work that took me 1–2 hours per role.</p>
 <p><b>At firm scale (labeled estimate).</b> If each consultant takes one company through the full cycle per week, the app saves each of them about <b>3.75–6 hours a week</b>. Across a 50-consultant firm that is roughly <b>190–300 hours a week</b>, about the working time of 5–7.5 full-time recruiters, for about <b>$46 a month</b> in model costs.</p>
 <p><b>Quality of the predictions (source: Hiring Check on real job boards).</b> Across the 10 companies Signal Radar picked on Oct 14 and Oct 23, every pick whose job board the app could read was actively hiring: <b>4 of 4</b> (Verastem 11 open roles, Vir 16, Generate:Biomedicines 20, Tango 18), and all 4 had open roles matching the roles the Ranker predicted (e.g. 12 of Generate's 20). The other 6 couldn't be counted automatically, so this measures precision on the companies the check can read, not all picks.</p>
+<p><b>A current SciPro consultant tried it (source: user feedback).</b> Gianna, a Senior Consultant at SciPro who does this work today, tried the app through a password-protected test link:</p>
+<div class="callout" style="font-size:11.5pt"><i>"Wow! Look at this handy dandy tool. You have to promise to share this agent with me for me to use IRL."</i> (Gianna, Senior Consultant, SciPro)</div>
 <div class="callout"><i>"I used to do this for real... this process would take me 5+ hours start to finish, probably."</i> (Sofia Lopresti, former SciPro 360 recruiter)</div>
 
 <h2>7. Limits and next steps</h2>
 <ul>
 <li><b>It finds companies, not people.</b> Finding the right person and their email still takes about 15 minutes per company. Next: integrate a contact provider or LinkedIn with permission.</li>
 <li><b>Hiring Check coverage.</b> 6 of 10 picks use careers pages it can't count. Next: support more job boards (Rippling, Paylocity, Workday) and re-check picks two weeks later to measure "still hiring."</li>
-<li><b>Thin evaluation.</b> The A/B test is one day of news (the gateway cached repeats), and the time savings are my own estimates as a former SciPro recruiter, not a timed study with other users. Next: a two-week timed pilot with 3–5 SciPro consultants, tracking time saved, reply rates, and meetings booked.</li>
+<li><b>Thin evaluation.</b> The A/B test is one day of news (the gateway cached repeats), the time savings are my own estimates as a former SciPro recruiter, and the one current consultant who tried it gave qualitative feedback, not timings. Next: a two-week timed pilot with 3–5 SciPro consultants, tracking time saved, reply rates, and meetings booked.</li>
 <li><b>Manual hand-off to SourceWhale</b> (copy and paste) and a single shared pipeline file with no user accounts. Next: SourceWhale/Bullhorn API integration and multi-user login.</li>
 <li><b>Placeholder prices.</b> Dollar figures use the Lecture 11 placeholder rates; token counts are measured and the calculator updates when real prices are entered.</li>
 <li><b>More signals.</b> Add SEC filings, company press releases, and layoffs (to map available talent), and learn ranking weights from which outreach actually gets replies.</li>
