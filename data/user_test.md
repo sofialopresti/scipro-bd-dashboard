@@ -18,7 +18,7 @@ The app times are measured AI generation times from the traced run on 2026-10-23
 | 4c | Build the sourcing plan (target companies + boolean searches) | 1-2 hours | |
 |   | **One company end to end (excluding contact finding)** | **about 4-6.5 hours** | **about 1.5 min + review** |
 
-**Quote:** "I used to do this for real... this process would take me 5+ hours start to finish, probably."
+**Quote:** "I used to do this for real... this process would take me 5+ hours start to finish."
 
 **Standout feature:** the sourcing plan. Knowing where the right people work and writing the boolean
 searches is one of the hardest parts of a search.
